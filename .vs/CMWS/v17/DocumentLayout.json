@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Jessie\\source\\repos\\Github\\CMWS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12417147-E307-41CB-8C19-BDC5BAB2E5BC}|CMWS.csproj|c:\\users\\jessie\\source\\repos\\github\\cmws\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{12417147-E307-41CB-8C19-BDC5BAB2E5BC}|CMWS.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{12417147-E307-41CB-8C19-BDC5BAB2E5BC}|CMWS.csproj|c:\\users\\jessie\\source\\repos\\github\\cmws\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{12417147-E307-41CB-8C19-BDC5BAB2E5BC}|CMWS.csproj|solutionrelative:components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12417147-E307-41CB-8C19-BDC5BAB2E5BC}|CMWS.csproj|c:\\users\\jessie\\source\\repos\\github\\cmws\\wwwroot\\css\\custom-theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{12417147-E307-41CB-8C19-BDC5BAB2E5BC}|CMWS.csproj|solutionrelative:wwwroot\\css\\custom-theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12417147-E307-41CB-8C19-BDC5BAB2E5BC}|CMWS.csproj|c:\\users\\jessie\\source\\repos\\github\\cmws\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12417147-E307-41CB-8C19-BDC5BAB2E5BC}|CMWS.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12417147-E307-41CB-8C19-BDC5BAB2E5BC}|CMWS.csproj|c:\\users\\jessie\\source\\repos\\github\\cmws\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,8 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\Jessie\\source\\repos\\Github\\CMWS\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\Jessie\\source\\repos\\Github\\CMWS\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-19T22:43:45.467Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -44,14 +61,14 @@
               "RelativeDocumentMoniker": "wwwroot\\css\\custom-theme.css",
               "ToolTip": "C:\\Users\\Jessie\\source\\repos\\Github\\CMWS\\wwwroot\\css\\custom-theme.css",
               "RelativeToolTip": "wwwroot\\css\\custom-theme.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-08-19T22:32:42.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\Jessie\\source\\repos\\Github\\CMWS\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T22:19:01.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T22:19:01.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\Jessie\\source\\repos\\Github\\CMWS\\Components\\App.razor",
               "RelativeDocumentMoniker": "Components\\App.razor",
@@ -77,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\Jessie\\source\\repos\\Github\\CMWS\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "Components\\_Imports.razor",
@@ -89,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jessie\\source\\repos\\Github\\CMWS\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -101,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Jessie\\source\\repos\\Github\\CMWS\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",

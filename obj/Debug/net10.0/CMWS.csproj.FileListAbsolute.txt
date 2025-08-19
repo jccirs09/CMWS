@@ -347,8 +347,6 @@ C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\compressed\1j22dwrj1u
 C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\compressed\li37l0m902-{0}-13ja33weya-13ja33weya.gz
 C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\compressed\awcv54uvci-{0}-cyt5sts332-cyt5sts332.gz
 C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\compressed\zhke7vq48u-{0}-wos4yuj1st-wos4yuj1st.gz
-C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\compressed\zaiq1rfgfy-{0}-z8drj2cz04-z8drj2cz04.gz
-C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\compressed\zk435wyyom-{0}-z8drj2cz04-z8drj2cz04.gz
 C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\staticwebassets.development.json
@@ -360,4 +358,6 @@ C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\refint\CMWS.dll
 C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\CMWS.pdb
 C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\CMWS.genruntimeconfig.cache
 C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\ref\CMWS.dll
-C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\compressed\d7fwwi2num-{0}-1eszx7bcoi-1eszx7bcoi.gz
+C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\compressed\d7fwwi2num-{0}-m8ietlw6vi-m8ietlw6vi.gz
+C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\compressed\zaiq1rfgfy-{0}-84g8rjy79v-84g8rjy79v.gz
+C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\compressed\zk435wyyom-{0}-84g8rjy79v-84g8rjy79v.gz
