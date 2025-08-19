@@ -7,6 +7,8 @@
     --bs-primary-text-emphasis: #083c3a;
     --bs-primary-bg-subtle: #d5f6ef;
     --bs-primary-border-subtle: #9ee5d5;
+    --sidebar-gradient-start: var(--bs-primary);
+    --sidebar-gradient-end: #0e544b; /* choose a darker shade of teal */
 }
 
 /* Style the active nav link in the sidebar */

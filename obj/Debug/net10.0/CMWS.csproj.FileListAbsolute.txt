@@ -358,6 +358,6 @@ C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\refint\CMWS.dll
 C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\CMWS.pdb
 C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\CMWS.genruntimeconfig.cache
 C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\ref\CMWS.dll
-C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\compressed\d7fwwi2num-{0}-m8ietlw6vi-m8ietlw6vi.gz
-C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\compressed\zaiq1rfgfy-{0}-84g8rjy79v-84g8rjy79v.gz
-C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\compressed\zk435wyyom-{0}-84g8rjy79v-84g8rjy79v.gz
+C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\compressed\d7fwwi2num-{0}-0tcwfort9x-0tcwfort9x.gz
+C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\compressed\zaiq1rfgfy-{0}-imgv18qgj2-imgv18qgj2.gz
+C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\compressed\zk435wyyom-{0}-imgv18qgj2-imgv18qgj2.gz
