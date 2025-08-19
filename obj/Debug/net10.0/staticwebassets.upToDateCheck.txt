@@ -1,4 +1,5 @@
 wwwroot\app.css
+wwwroot\css\custom-theme.css
 wwwroot\favicon.png
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -49,6 +50,7 @@ Components\Layout\ReconnectModal.razor.js
 C:\Users\Jessie\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.0-preview.7.25380.108\build\..\_framework\blazor.web.js
 C:\Users\Jessie\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.0-preview.7.25380.108\build\..\_framework\blazor.server.js
 C:\Users\Jessie\source\repos\Github\CMWS\wwwroot\app.css
+C:\Users\Jessie\source\repos\Github\CMWS\wwwroot\css\custom-theme.css
 C:\Users\Jessie\source\repos\Github\CMWS\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\Jessie\source\repos\Github\CMWS\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 C:\Users\Jessie\source\repos\Github\CMWS\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css

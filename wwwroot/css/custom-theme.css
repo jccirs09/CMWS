@@ -1,0 +1,21 @@
+﻿/* wwwroot/css/custom-theme.css */
+
+/* Replace the primary colour with teal */
+:root {
+    --bs-primary: var(--bs-teal); /* teal becomes primary */
+    --bs-primary-rgb: 32, 201, 151; /* RGB triplet for #20c997 */
+    --bs-primary-text-emphasis: #083c3a; /* darker teal for text emphasis */
+    --bs-primary-bg-subtle: #d5f6ef; /* very light teal for subtle backgrounds */
+    --bs-primary-border-subtle: #9ee5d5; /* light teal for borders */
+}
+
+/* Optional: style active nav links and the top row using the new primary colour */
+.sidebar .nav-link.active {
+    background-color: var(--bs-primary-bg-subtle);
+    color: var(--bs-primary-text-emphasis);
+}
+
+.top-row {
+    background-color: var(--bs-primary);
+    color: #fff;
+}

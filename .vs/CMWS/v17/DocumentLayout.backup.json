@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{12417147-E307-41CB-8C19-BDC5BAB2E5BC}|CMWS.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{12417147-E307-41CB-8C19-BDC5BAB2E5BC}|CMWS.csproj|c:\\users\\jessie\\source\\repos\\github\\cmws\\wwwroot\\css\\custom-theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{12417147-E307-41CB-8C19-BDC5BAB2E5BC}|CMWS.csproj|solutionrelative:wwwroot\\css\\custom-theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12417147-E307-41CB-8C19-BDC5BAB2E5BC}|CMWS.csproj|c:\\users\\jessie\\source\\repos\\github\\cmws\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12417147-E307-41CB-8C19-BDC5BAB2E5BC}|CMWS.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12417147-E307-41CB-8C19-BDC5BAB2E5BC}|CMWS.csproj|c:\\users\\jessie\\source\\repos\\github\\cmws\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{12417147-E307-41CB-8C19-BDC5BAB2E5BC}|CMWS.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -26,8 +34,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "custom-theme.css",
+              "DocumentMoniker": "C:\\Users\\Jessie\\source\\repos\\Github\\CMWS\\wwwroot\\css\\custom-theme.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\custom-theme.css",
+              "ToolTip": "C:\\Users\\Jessie\\source\\repos\\Github\\CMWS\\wwwroot\\css\\custom-theme.css",
+              "RelativeToolTip": "wwwroot\\css\\custom-theme.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-19T22:32:42.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Jessie\\source\\repos\\Github\\CMWS\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Jessie\\source\\repos\\Github\\CMWS\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T22:19:01.236Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,14 +70,14 @@
               "RelativeDocumentMoniker": "Components\\App.razor",
               "ToolTip": "C:\\Users\\Jessie\\source\\repos\\Github\\CMWS\\Components\\App.razor",
               "RelativeToolTip": "Components\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-19T21:26:57.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\Jessie\\source\\repos\\Github\\CMWS\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "Components\\_Imports.razor",
@@ -51,12 +85,11 @@
               "RelativeToolTip": "Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T21:26:40.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T21:26:40.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jessie\\source\\repos\\Github\\CMWS\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -64,12 +97,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T21:24:53.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T21:24:53.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Jessie\\source\\repos\\Github\\CMWS\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -77,8 +109,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-19T21:21:23.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T21:21:23.084Z"
             }
           ]
         }

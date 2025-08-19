@@ -360,3 +360,4 @@ C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\refint\CMWS.dll
 C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\CMWS.pdb
 C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\CMWS.genruntimeconfig.cache
 C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\ref\CMWS.dll
+C:\Users\Jessie\source\repos\Github\CMWS\obj\Debug\net10.0\compressed\d7fwwi2num-{0}-1eszx7bcoi-1eszx7bcoi.gz
